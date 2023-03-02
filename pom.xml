@@ -17,7 +17,9 @@
     <module>doodle-admin-client</module>
     <module>doodle-admin-server</module>
     <module>doodle-admin-server-core</module>
+    <module>doodle-admin-vaadin</module>
     <module>doodle-starter-admin-client</module>
     <module>doodle-starter-admin-server</module>
+    <module>doodle-starter-admin-vaadin</module>
   </modules>
 </project>
