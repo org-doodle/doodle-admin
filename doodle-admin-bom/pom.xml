@@ -41,7 +41,17 @@
       </dependency>
       <dependency>
         <groupId>org.doodle</groupId>
+        <artifactId>doodle-admin-client</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
         <artifactId>doodle-admin-server-core</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
+        <artifactId>doodle-starter-admin-client</artifactId>
         <version>${project.version}</version>
       </dependency>
       <dependency>
